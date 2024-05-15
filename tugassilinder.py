@@ -69,3 +69,5 @@ plt.grid(color='green', linestyle='-.', linewidth=.5)
 st.pyplot(fig)
 
 st.write(f"Hasil integral pada rentang {integral_range} adalah: {integral_result}")
+
+st.write(f"Hasil integral pada rentang {integral_range} adalah: {integral_result}")
