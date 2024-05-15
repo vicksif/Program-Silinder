@@ -3,7 +3,7 @@
 
 import streamlit as st
 import numpy as np
-import pyplot as plt
+import matplot.pyplot as plt
   
 x=st.slider('Pilih rentang', 0.0, 2.0, (.2, .5))
 st.write('nilai x:', x)
