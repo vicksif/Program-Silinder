@@ -1,5 +1,6 @@
-#Rico Rachmad Maulana
-#210322607316
+#Vicky Sandika Putra Firdiawan
+#210322607233
+
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
